@@ -1,3 +1,3 @@
 # refactored-couscous
 Formation 
-ReadMe pour la formation2
+ReadMe pour la formation
